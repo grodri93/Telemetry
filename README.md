@@ -27,7 +27,7 @@ If it does not work type this in PowerShell
 ```
 Restart PowerShell and try again. If it does not work, try restarting computer.
 ### Using parsedata.py
-To use the functions from here, type this line in the beggining of program. 
+To use the functions from here, type this line in the beggining of program. Make sure parsedata.py is the same folder as your program.
 
 NOTE: parsedata is where the function is and parse is the function name.
 ```
