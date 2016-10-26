@@ -1,7 +1,7 @@
 # Telemetry
 The project currently parses a string, seperating and organizing all the sensor data.
 ## Getting Started
-The programs here use Python 2.7.12. These instructions shouls work for Linux and Windows machine.
+The programs here use Python 2.7.12. These instructions should work for Linux and Windows machine.
 ### Prerequisites
 #### Linux:
 Python should already be built in linux. In terminal type to test:
